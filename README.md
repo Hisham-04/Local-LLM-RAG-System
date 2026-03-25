@@ -1,4 +1,4 @@
-# Enterprise RAG Knowledge Assistant
+# Local-LLM-RAG-System
 
 A local RAG system that answers HR and policy questions from company documentation using a local LLM — no external API needed.
 
